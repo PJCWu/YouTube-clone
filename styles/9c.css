@@ -1,0 +1,9 @@
+.service-survey {
+  width: 300px;
+  font-family: Arial;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(150, 150, 150);
+  padding-left: 15px;
+  padding-bottom: 20px;
+}

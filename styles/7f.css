@@ -1,0 +1,33 @@
+p {
+  font-family: Arial;
+  font-size: 16px;
+  color: rgb(100, 100, 100);
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+input {
+  width: 400px;
+  font-size: 16px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 5px;
+}
+
+.join-button {
+  margin-top: 20px;
+  width: 400px;
+  background-color: rgb(10, 102, 194);
+  color: white;
+  font-size: 20px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  border: none;
+  border-radius: 30px;
+}

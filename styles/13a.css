@@ -1,0 +1,24 @@
+.flexbox {
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+}
+
+.lightpink {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: lightpink;
+  width: 100px;
+}
+
+.nested-flex {
+  background-color: black;
+  color: white;
+}
+
+.lightblue {
+  background-color: lightblue;
+  width: 200px;
+}

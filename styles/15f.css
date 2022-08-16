@@ -1,0 +1,52 @@
+body {
+  height: 3000px;
+}
+
+.container {
+  background-color: lightgray;
+  position: relative;
+  display: inline-block;
+}
+
+.jacket {
+  width: 320px;
+  height: 320px;
+  object-fit: cover;
+}
+
+.discount {
+  background-color: black;
+  color: white;
+  font-family: Arial;
+  position: absolute;
+  top: 10px;
+  right: 0;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 6px;
+  padding-right: 6px;
+}
+
+.overlay {
+  background-color: rgba(255, 255, 255, 0.6);
+  position: absolute;
+  height: 80px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.add-button {
+  background-color: white;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  cursor: pointer;
+}

@@ -1,0 +1,28 @@
+p {
+  font-family: Arial;
+  width: 500px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.tweet-header {
+  margin-bottom: 5px;
+}
+
+.tweet-author {
+  font-weight: bold;
+}
+
+.tweet-info {
+  color: rgb(100,100,100);
+}
+
+.tweet-content {
+  width: 500px;
+  line-height: 25px;
+  margin-bottom: 20px;
+}
+
+.tweet-name {
+  color: rgb(29, 155, 240);
+}

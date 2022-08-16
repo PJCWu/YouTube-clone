@@ -1,0 +1,61 @@
+body {
+  height: 3000px;
+}
+
+.left-sidebar-profile-pictures {
+  background-color: rgb(33, 33, 33);
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.profile-icon {
+  margin-bottom: 10px;
+}
+
+.profile-picture {
+  height: 50px;
+  width: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+}
+
+.left-sidebar-info-menu {
+  font-family: Arial;
+  background-color: rgb(55, 55, 55);
+  width: 150px;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 70px;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.menu-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.name {
+  color: rgb(220, 220, 220);
+  font-size: 14px;
+}
+
+.create-new {
+  font-size: 25px;
+  color: rgb(150, 150, 150);
+}
+
+.channel-links {
+  color: rgb(150, 150, 150);
+  margin-bottom: 16px;
+}
